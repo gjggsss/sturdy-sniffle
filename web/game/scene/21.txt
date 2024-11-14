@@ -1,0 +1,4 @@
+intro:你最後選擇回去商店，滿身酒氣的主人看見妳終於回來了，隨手拿起身旁的棍子朝妳揮舞，妳被擊中頭部，鮮血頓時噴湧而出，妳徹底失去了反抗能力，倒在地上，血流如注，臨死前妳回憶了這一生，受盡屈辱，而眼前這個傷害你的人仍不停對妳進行辱罵， -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:一股怒火席捲你的內心，突然妳的身體湧出一股力量，妳隨手拿起一個瓷器朝商店主人頭部砸去，他頭破血流，命喪當場，妳也隨之因失血過多離開了這煉獄般的人間。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:同墮深淵… -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+end;
