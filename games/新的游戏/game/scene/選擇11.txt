@@ -1,3 +1,0 @@
-intro:妳無法抵抗犯罪者的暴力行為，被壓在床上，犯罪者舉起刀狠狠刺向妳，冰冷的刀鋒刺入皮膚，那感覺彷彿是這世間對你最大的惡意，妳的生命迅速流逝，最終帶著對命運的憤恨與不甘，死不瞑目。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
-intro:憤恨命運不公，含冤而死… -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
-end;

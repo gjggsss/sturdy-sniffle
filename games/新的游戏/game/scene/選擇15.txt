@@ -1,4 +1,0 @@
-intro:追求奢華生活的妳當然不願意放棄這個機會，你與老大就像是陷入熱戀情的情侶一樣形影不離，某次你與老大參與政治人物舉辦的宴會，路上遇到了敵對的堂口勢力，雙方產生口角爭執，突然有人先開一槍，雙方開始展開混戰，老大奮不顧身地保護你，但他最終為此身負重傷，儘管他拼盡全力想要護住你，卻無法阻止你被流彈擊中，隨著時間流逝，你的生命在失血中逐漸消逝。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
-intro:最終，在這混亂的槍林彈雨中，你與他緊緊相擁，共赴死亡，留下無盡的遺憾與愛情的餘燼。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
-intro:情深緣淺共黃泉，kum ho結局 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
-end;

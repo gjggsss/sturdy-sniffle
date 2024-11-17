@@ -1,3 +1,0 @@
-intro:數著遙遙無期的賣身期限，且身處艱難的生存環境，你似乎看不到你的未來，你得知同為妓女的好姊妹，早已偷偷準備生吞鴉片，於是你決定和她們一起尋求解脫… -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
-intro:不求同年同月同日生，但求同年同月同日死 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
-end;

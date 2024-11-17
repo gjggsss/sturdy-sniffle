@@ -1,4 +1,0 @@
-intro:多年來的妓女生涯早已讓你對情愛淡漠，你不再有太多期待，只希望這輩子能平安健康地度過。時光飛逝，隨著年齡的增長，你已經不再適合繼續從事妓女這個行業。儘管你一直辛勤工作，但依然無法在契約書規定的時限內還清所有債務。妓院看在你多年來盡心工作的份上，決定不再對你過於苛刻。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
-intro:他們安排你轉任為院內的煮飯婆，讓你用這種方式來完成剩餘的工作時數，這樣的安排讓你可以不必繼續接客，平靜地度過餘生。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
-intro:少年輕信，深陷泥潭，一生辛勞… -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
-end;
