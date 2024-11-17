@@ -1,4 +1,0 @@
-intro:教會人員尊重了你的選擇，並沒有逼迫你出示任何證明或做出決定。在被教會救助和住在教會的日子裡，你逐漸受到宗教氛圍的薰陶，心靈也得到了慰藉和重生。教會的教義和信仰觸動了你內心深處的傷痕，讓你看到了新的生活方向。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
-intro:最終，你決定受洗，成為一名虔誠的新教徒，你將一生奉獻給上帝，致力於華人宗教社群的發展與傳教工作。無論走到哪裡，你都以虔誠的心靈服務他人，將信仰的力量帶給更多有需要的人。在宗教的影響下，你找到了一條充滿了意義與使命感並且屬於自己的道路。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
-intro:陳丁香(Lilac Chen)結局 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
-end;

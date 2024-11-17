@@ -1,4 +1,0 @@
-intro:查理已經昏迷多日，在其他人都放棄希望時，你用編織鉤針清理他的傷口，並用中草藥精心護理，最終奇蹟般地救了查理的性命。經過這次的生死危難之後，查理與妳之間產生莫名情愫，你們經常共進晚餐，在一段時間的相處下，查理正式向妳求婚，然而，由於妳過去經歷過許多可怕的事情，妳內心充滿不安，最終拒絕了他的求婚。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
-intro:查理非常體貼，沒有強迫妳，依然陪伴在妳身邊，默默守護著妳，就這樣，儘管沒有婚書，你們仍一起生活，彼此依賴，感情也愈加深厚。直到排華法案的出現，妳才與查理正式結婚。婚後，你們在河畔處買了一座農場，過上平靜安穩的生活。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
-intro:波麗·貝米斯(Polly Bemis)結局 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
-end;

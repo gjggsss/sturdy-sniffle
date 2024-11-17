@@ -1,3 +1,0 @@
-intro:此時唐納狄娜‧柯麥隆經過，她注意到試圖掙脫人販子束縛的你，出於人道主義，她出手拯救了你，最終在她的幫助下，你成功回到中國。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
-intro:順利歸國，平靜度日，安然無恙。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
-end;
