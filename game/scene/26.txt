@@ -1,0 +1,4 @@
+intro:妳成功與心愛之人私奔，逃到了另一座城市，並在這裡重新開始生活，妳們過著簡單卻幸福的日子，彼此依偎，充滿希望。然而，有天，妳的舊主人找上門來，控告妳偷竊鉅額財寶，試圖將妳帶回去。在法庭上，妳勇敢地向法官坦白自己想擺脫奴役，渴望與心上人結婚，過上自由的生活。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:妳的真誠打動了法官，最終他撤銷控訴，還你自由，妳順利回到丈夫身邊，繼續共同生活，迎來了嶄新的人生。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:安妮．李(China Annie Lee)結局 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+end;

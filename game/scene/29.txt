@@ -1,0 +1,4 @@
+intro:你一開始非常享受在賭場度過的歡樂時光，逐漸沉迷於賭博，甚至開始吸食鴉片。隨著賭債越來越多，金錢的壓力迫使你不斷接客來償還債務。然而，長期的放縱生活讓你染上了性病，病情不斷惡化，直到你難以自理。妓院見你無法再接客，便將你關在一間簡陋的小木屋裡，只提供最基本的三餐和簡單的治療。 你心裡明白，這樣的生活無異於等死。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:在生命的最後一段日子裡，你常常感嘆，曾經奢靡的生活是如此的短暫，從高峰到低谷的墮落竟來得如此之快。最終，你在孤寂中去世。幾天後，木屋裡傳出屍臭，妓院的人才察覺你已經多日未向他們乞食，原來你早已死去。然而，他們並未給你安葬，只是將你的遺體隨意拋棄在陰暗污穢的水溝旁，任其腐爛，毫無尊嚴。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:好一似食盡鳥投林，落了片白茫茫大地真乾淨！ -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+end;

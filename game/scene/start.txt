@@ -1,0 +1,7 @@
+; 初始场景，以及特效演示
+bgm:s_Title.mp3;
+unlockBgm:s_Title.mp3 -name=雲を追いかけて;
+intro:宿主你好，你已穿越到19世紀，|接下來的所有經歷，|請遵從你自己的內心，|做出你認為最正確選擇吧！|(此遊戲故事線皆改編自史實，|獻給許多在過去經歷不幸的有名或無名的|在美華人女性) -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+changeBg:bg.png -next;
+初始問題:有人將你帶到港口，準備搭乘去往美國的船隻，請問你選擇： -v1.wav -fontSize=default;
+choose:上船:選擇1.txt|逃跑:選擇2.txt;

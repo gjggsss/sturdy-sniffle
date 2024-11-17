@@ -1,0 +1,4 @@
+intro:妳成功贏得了老鴇的看重，她決定帶妳參加一場重要的宴會。那晚，妳的表現光彩奪目，吸引了所有人的注意，成為了宴會的焦點。眾人對你印象深刻，紛紛談論妳的魅力和才華， -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:此後，妳積極參加各類宴會，逐漸成為知名的交際花，許多人不惜花費重金只為了能見妳一面。隨著名氣的提升，妳開始積累財富，最終為自己贖身。後來妳開辦了多家妓院，成為華埠中不可忽視的勢力。多年後，妳不僅在生意上取得了巨大成功，也成為了這片區域舉足輕重的人物，擁有無可撼動的地位。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:亞彩(Ah choi)結局 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+end;
