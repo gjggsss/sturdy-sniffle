@@ -1,4 +1,5 @@
 intro:儘管過去作為奴隸的日子極其黑暗，如同一個永遠無法癒合的傷口，你依然堅定地認為應該站出來，講述自己的經歷，讓世人正視這些罪惡的存在。在法庭上，雖然你年紀輕輕，但你敏捷的反應和條理分明的陳述，讓陪審團留下了深刻的印象。他們看到了你內心的堅強，明白了你所經歷的苦難，也更加深刻地理解了這一罪行的殘酷。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
 intro:你的證詞不僅是為自己發聲，更是為所有受壓迫的人發出呼喚正義的聲音。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
-intro:玉英(Yute Ying)結局 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:結局：玉英(Yute Ying)結局 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:卡羅爾威爾遜(Carol Green Wilson)在其著作《唐人街求索(Chinatown Quest)》記述了一位住在舊金山且被迫成為奴隸的10歲兒童玉英(Yute Ying)。她被主人殘酷虐待，最後被唐納狄娜．卡麥隆女士(Donaldina Cameron)救出。 玉英(Yute Ying)受舊金山法院陪審團傳喚為奴隸交易的罪惡作證，她在法庭上迅速回答的模樣讓陪審員留下很深的印象。1933年發生了一個重大的反娼妓審判，倡導者卡麥隆女士與瑪格利特卡奧伯特森女士在警察的協助下，利用輿論喚醒社會公眾一起反對墮落的娼妓制度存在。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
 end;

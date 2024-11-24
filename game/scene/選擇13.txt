@@ -1,4 +1,5 @@
 intro:你趁機躲進了附近的柳條箱內，屏住呼吸等待，直到外面的吵雜聲逐漸平息。然而，由於箱內空間狹窄且供氧不足，你最終因窒息暈了過去。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
 intro:再次醒來時，你發現自己已被救出，救你的人是礦區雜貨店的老闆——也是你的常客。 這次驚心動魄的綁架事件，讓你對身處的妓女行業產生了深深的陰影，內心倍感恐懼和無力。經歷一段時間的休息與沉澱後，雜貨店老闆逐漸向你表露心意。他的溫暖和關懷慢慢打動了你。經過深思熟慮，你最終決定放下過去的生活，嫁給他，過起相夫教子的平靜日子，重新尋回安穩與幸福。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
-intro:歸於平凡，重拾安穩與幸福 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:結局：歸於平凡，重拾安穩與幸福 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:在這些閉塞的礦區，中國娼妓們也最容易成為種族犯罪的受害者。例如，在1870年，在康斯托克采金區的4名中國娼妓被堂口綁架，後來只有1名倖存者在鐵路上被發現並且她被釘在一個從舊金山(San Francisco)運到雷諾(Reno)的柳條箱內。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
 end;

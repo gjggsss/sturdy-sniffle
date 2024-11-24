@@ -1,7 +1,7 @@
 Game_name:回到19世紀;
 Game_key:b744d0606cadf3;
-Title_img:WebGAL_New_Enter_Image.png;
-Title_bgm:s_Title.mp3;
+Title_img:19ä¸ç´èå ±ç´ä¸æä¸­è¯å¥³åå·¥ äººå° æ©«å.png;
+Title_bgm:Gnossienne No.1.mp3;
 Textbox_theme:imss;
 Description:選擇你的選擇！;
 Package_name:webgaldev.mygalgame;

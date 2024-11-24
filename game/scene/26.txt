@@ -1,4 +1,7 @@
 intro:妳成功與心愛之人私奔，逃到了另一座城市，並在這裡重新開始生活，妳們過著簡單卻幸福的日子，彼此依偎，充滿希望。然而，有天，妳的舊主人找上門來，控告妳偷竊鉅額財寶，試圖將妳帶回去。在法庭上，妳勇敢地向法官坦白自己想擺脫奴役，渴望與心上人結婚，過上自由的生活。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
 intro:妳的真誠打動了法官，最終他撤銷控訴，還你自由，妳順利回到丈夫身邊，繼續共同生活，迎來了嶄新的人生。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
-intro:安妮．李(China Annie Lee)結局 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:結局：安妮．李(China Annie Lee)結局 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:安妮．李(China Annie Lee)是一位年輕美麗的廣東女孩。1875年，她在愛達荷州的愛達荷城（Idaho City）一家隸屬於陽和（Yeong Wo）會館的妓院工作。後來，她逃到鮑依斯（Boise， Idaho）並嫁給名叫阿關（Ah Guan）的中國年輕男子。因此她的主人企圖以控告她偷竊鉅額財物的方式，欲再次控制其自由。 後來，安妮．李(China Annie Lee)雖被逮捕並送上法庭，然而她贏得了法官的同情。在庭審中，法官決定不通過翻譯改以親自問話的方式進行審訊，而她亦清楚地表達了自己渴望結束奴役生活並與心上人結婚的願望。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro: 因此當法官宣誓後，問她是想回到愛達荷城還是留在鮑依斯。安妮．李(China Annie Lee)回答道：「我想留在鮑依斯。」最終，法庭撤銷了案件，安妮．李(China Annie Lee)得以順利回到她丈夫身邊並開始新的生活。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:另外，當時妓院的雇主皆視妓女為他們的財產，因此只要有妓女自主或受到他人幫忙而逃離妓院，雇主會僱用堂口黑幫協助找回娼妓。並且堂口會透過綁架、利用美國法庭手段強行取回或透過高額懸賞追捕協助妓女逃脫的幫兇。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
 end;
