@@ -1,4 +1,3 @@
 intro:最終沒有買主出價買下你，你被賣至了西部礦山從事妓女行業… -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
-changeBg:19ä¸ç´è¥¿é¨ç¤¦å±±ï¼å®èª¿æ·¡è²ï¼ä¸æ¹çç©º.png;
 問題四:你被送至了西部礦山後，每天忍受著這裡惡劣的環境，在堅持一段時間後，你內心湧現出一股莫名的情緒，你決定： -fontSize=default;
 choose:自殺:選擇8.txt|逃離這個鬼地方:選擇9.txt|艱難地繼續活著:選擇10.txt;

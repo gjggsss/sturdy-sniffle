@@ -1,6 +1,5 @@
 intro:儘管曾經的動心已經淡去，但你仍然感激眼前這位願意全盤接受你的男人。最終，你決定與他一起離開，開始新的生活。然而，好景不長，你的丈夫先你一步離世，留下你孤身一人。沒有依靠的你，拿著與丈夫一起打拼當洗衣工的積蓄，決定重新回到老本行，但這次你成為了老鴇。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
 intro:作為老鴇，你特別關照手下的妓女，經常勸誡她們不要沉迷於賭博或其他危險的行為。有一次，偶然的機會讓你接觸到了基督教，你開始定期去禮拜堂，尋求心靈的平靜與救贖。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
 intro:隨著信仰逐漸深入你的心靈，宗教的力量讓你做出了一個重要決定。你決心不再從事老鴇這個行業，讓旗下的妓女們重獲自由，此舉讓她們對你心生感激，感謝你的仁慈與善良。從此，你脫離了過去的生活，開始了一條全新的道路，帶著信仰與內心的平靜，走向未來。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
-intro:結局：水馨(Suey Him)結局 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
-intro:當水馨(Suey Him)五歲時，其父親以一塊金子的代價把她賣掉；十二歲時再次被賣掉。後來在妓院當了十年妓女並嫁給一個愛她的窮困華人洗衣工。這位洗衣工存了八年的錢才從妓院老闆手中贖回水馨(Suey Him)的自由。 但好景不常，她老公意外過世後，她失去了經濟支柱，只好重操舊業。不過這次她成為老鴇，從中國買了許多女孩至美國為其工作；後來由於其受到基督教的薰陶，最終選擇金盆洗手並放旗下所有少女自由。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:水馨(Suey Him)結局 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
 end;
