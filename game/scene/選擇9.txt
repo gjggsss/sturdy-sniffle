@@ -1,3 +1,4 @@
-intro:你實在難以忍受礦山區的髒亂與惡劣的接客環境，於是獨自逃到深山中，最後你因為不熟地形加上飢餓過度暈倒，被獵人發現時雙腳全被凍住，不得不被截肢，醒來的你深感絕望，選擇絕食結束悲慘的命運… -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
-intro:異鄉餓殍，魂歸虛無… -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:妳實在難以忍受礦山區的髒亂與惡劣的接客環境，於是獨自逃到深山中，最後妳因為不熟地形加上飢餓過度暈倒，被獵人發現時雙腳全被凍住，不得不被截肢，醒來的妳深感絕望，選擇絕食結束悲慘的命運… -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:結局：異鄉餓殍，魂歸虛無 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 200, 0, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:從19世紀中葉一直到20世紀初，有關這一類的報導的數量相當的可觀。例如，有一名娼妓嘗試藏匿在內華達山以逃避妓院人員的抓捕，然而等到她被找到時她的雙腳遭到冰凍急須切除治療，最後其因為拒服藥物和進食而死。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 200, 0, 1) -animation=fadeIn -delayTime=1500 -hold;
 end;
