@@ -1,4 +1,4 @@
-intro:妳無法抵抗犯罪者的暴力行為，被壓在床上，犯罪者舉起刀狠狠刺向妳，冰冷的刀鋒刺入皮膚，那感覺彷彿是這世間對妳最大的惡意，妳的生命迅速流逝，最終帶著對命運的憤恨與不甘，死不瞑目 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
-intro:結局：憤恨命運不公，含冤而死 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 230, 0, 1) -animation=fadeIn -delayTime=1500 -hold;
-intro:1867年一位被受歡迎且被譽為「東方洋娃娃」 的跳舞女孩，被人發現死亡時是被切成片狀的慘況。 不過這一類的事件通常因為妓女的社會地位較低，以及當時社會普遍對她們的死亡大多習以為常，所以除了名妓被殺或死法過於殘忍的案件，其餘大多都只有經過與結果的紀錄，很少記載人名，因此後代研究即無法考查出人物的姓名與生平。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 225, 0, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:妳無法抵抗犯罪者的暴力行為，被壓在床上，犯罪者舉起刀狠狠刺向妳，冰冷的刀鋒刺入皮膚，那感覺彷彿是這世間對妳最大的惡意，妳的生命迅速流逝，最終帶著對命運的憤恨與不甘，死不瞑目。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:結局：|憤恨命運不公，含冤而死 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 191, 0, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:1867年一位被受歡迎且被譽為「東方洋娃娃」 的跳舞女孩，被人發現死亡時是被切成片狀的慘況。 不過這一類的事件通常因為妓女的社會地位較低，以及當時社會普遍對她們的死亡大多習以為常，所以除了名妓被殺或死法過於殘忍的案件，其餘大多都只有經過與結果的紀錄，很少記載人名，因此後代研究即無法考查出人物的姓名與生平。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 191, 0, 1) -animation=fadeIn -delayTime=1500 -hold;
 end;

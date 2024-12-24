@@ -1,5 +1,5 @@
 intro:妳一開始非常享受在賭場度過的歡樂時光，逐漸沉迷於賭博，甚至開始吸食鴉片。隨著賭債越來越多，金錢的壓力迫使妳不斷接客來償還債務。然而，長期的放縱生活讓妳染上了性病，病情不斷惡化，直到妳難以自理。妓院見妳無法再接客，便將妳關在一間簡陋的小木屋裡，只提供最基本的三餐和簡單的治療。妳心裡明白，這樣的生活無異於等死。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
 intro:在生命的最後一段日子裡，妳常常感嘆，曾經奢靡的生活是如此的短暫，從高峰到低谷的墮落竟來得如此之快。最終，妳在孤寂中去世。幾天後，木屋裡傳出屍臭，妓院的人才察覺妳已經多日未向他們乞食，原來妳早已死去。然而，他們並未給妳安葬，只是將妳的遺體隨意拋棄在陰暗污穢的水溝旁，任其腐爛，毫無尊嚴。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
-intro:結局：好一似食盡鳥投林，落了片白茫茫大地真乾淨！ -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 200, 0, 1) -animation=fadeIn -delayTime=1500 -hold;
-intro:當時許多妓院的經營者亦同時兼營鴉片窟及賭場的行業，所以常有許多娼妓以吸食鴉片及豪賭做為發洩苦悶與悲痛的途徑，但卻也因此染上毒癮或沉溺於賭博當中。 而妓院經營者通常會願意借錢給這些娼妓以滿足她們的需求，由此一來不僅可以強化她們對於妓院經營者的依賴與需求， 也可以讓這些娼妓欠下大筆債物並被迫持續為妓院主服務。為此，面對始終無法輕易逃脫的惡性循環，即有一些絕望的娼妓會吞下生鴉片或跳海以尋短見。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 196, 0, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:結局：|好一似食盡鳥投林，落了片白茫茫大地真乾淨！ -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 191, 0, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:當時許多妓院的經營者亦同時兼營鴉片窟及賭場的行業，所以常有許多娼妓以吸食鴉片及豪賭做為發洩苦悶與悲痛的途徑，但卻也因此染上毒癮或沉溺於賭博當中。 而妓院經營者通常會願意借錢給這些娼妓以滿足她們的需求，由此一來不僅可以強化她們對於妓院經營者的依賴與需求， 也可以讓這些娼妓欠下大筆債物並被迫持續為妓院主服務。為此，面對始終無法輕易逃脫的惡性循環，即有一些絕望的娼妓會吞下生鴉片或跳海以尋短見。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 191, 0, 1) -animation=fadeIn -delayTime=1500 -hold;
 end;

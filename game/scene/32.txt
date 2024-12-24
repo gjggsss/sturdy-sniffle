@@ -1,5 +1,5 @@
 intro:多年來的妓女生涯早已讓妳對情愛淡漠，妳不再有太多期待，只希望這輩子能平安健康地度過。時光飛逝，隨著年齡的增長，妳已經不再適合繼續從事妓女這個行業。儘管妳一直辛勤工作，但依然無法在契約書規定的時限內還清所有債務。妓院看在妳多年來盡心工作的份上，決定不再對妳過於苛刻。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
 intro:他們安排妳轉任為院內的煮飯婆，讓妳用這種方式來完成剩餘的工作時數，這樣的安排讓妳可以不必繼續接客，平靜地度過餘生。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
-intro:結局：少年輕信，深陷泥潭，一生辛勞 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 183, 0, 1) -animation=fadeIn -delayTime=1500 -hold;
-intro:當時妓女的契約平均在4到5年，在這段時間裡，她們必須完全償還她們自中國到舊金山的旅費與在妓院生活所產生的其他費用才能夠重獲自由之身。但許多實例顯示，即使服務屆滿，許多妓女仍無法全額償還積欠的款項，因此當一名婦女不再能勝任性交易時，她可能會被要求轉而從事洗衣店或妓院中的煮飯婆以此繼續支付剩餘的欠款。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 174, 0, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:結局：|少年輕信，深陷泥潭，一生辛勞 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 191, 0, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:當時妓女的契約平均在4到5年，在這段時間裡，她們必須完全償還她們自中國到舊金山的旅費與在妓院生活所產生的其他費用才能夠重獲自由之身。但許多實例顯示，即使服務屆滿，許多妓女仍無法全額償還積欠的款項，因此當一名婦女不再能勝任性交易時，她可能會被要求轉而從事洗衣店或妓院中的煮飯婆以此繼續支付剩餘的欠款。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 191, 0, 1) -animation=fadeIn -delayTime=1500 -hold;
 end;
