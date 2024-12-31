@@ -1,4 +1,5 @@
-intro:在下船的間隙，趁著人販子不注意時，大哭大鬧吸引周圍路人的目光，此時唐納狄娜‧柯麥隆(Donaldina Cameron)經過，她注意到試圖掙脫人販子束縛的妳，出於人道主義，她出手拯救了妳，最終在她的幫助下，妳成功回到中國。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
-intro:結局：|順利歸國，平靜度日，安然無恙。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 191, 0, 1) -animation=fadeIn -delayTime=1500 -hold;
-intro:在歷史中，中介商會教導這些女孩怎麼應對港口官員的盤問，某些機靈的女孩在船隻抵達港口時會尖叫哭喊著自己被綁架。而這些透過引起騷動而逃過一劫的女孩最終會被送回中國。 然而，事實上女孩們的哭喊遭到路邊人群無視的情況才是多數，她們著實難以透過這種方式爭取到自由，特別是在舊金山這個早年是一個無治安可言，由男性主宰的邊境城市。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 191, 0, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:在下船的間隙，趁著人販子不注意時，大哭大鬧吸引周圍路人的目光，此時唐納狄娜‧柯麥隆(Donaldina Cameron)經過，她注意到試圖掙脫人販子束縛的妳，出於人道主義，她出手拯救了妳，最終在她的幫助下，妳成功回到中國。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=pixelateEffect -delayTime=1500 -hold;
+intro:結局|順利歸國，平靜度日，安然無恙。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 245, 201, 1) -animation=pixelateEffect -delayTime=1500 -hold;
+intro:在歷史中，中介商會教導這些女孩怎麼應對港口官員的盤問，某些機靈的女孩在船隻抵達港口時會尖叫哭喊著自己被綁架。而這些透過引起騷動而逃過一劫的女孩最終會被送回中國。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 245, 201, 1) -animation=pixelateEffect -delayTime=1500 -hold;
+intro:然而，事實上女孩們的哭喊遭到路邊人群無視的情況才是多數，她們著實難以透過這種方式爭取到自由，特別是在舊金山這個早年是一個無治安可言，由男性主宰的邊境城市。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 245, 201, 1) -animation=pixelateEffect -delayTime=1500;
 end;

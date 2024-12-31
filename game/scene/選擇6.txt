@@ -1,4 +1,4 @@
-intro:有人出高價買下了妳，妳成為了買主的奴隸。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
-changeBg:5854_0.jpg;
+intro:有人出高價買下了妳，妳成為了買主的奴隸。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=pixelateEffect -delayTime=1500 -hold;
+changeBg:5854_0.jpg -transform={"position":{"y":400},"scale":{"y":0.9}};
 問題八:有人出高價買下了妳，妳成為了買主的奴隸，某天買主又將妳轉賣，帶妳到了新的地方，妳覺得會是哪裡： -fontSize=default;
 choose:酒館:17.txt|商店:18.txt;

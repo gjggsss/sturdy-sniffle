@@ -1,4 +1,0 @@
-intro:妳被抓回來，人販子將妳教訓一番後，妳被迫記下應對官員盤問的關鍵字，但妳並未因此放棄追尋自由的心。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=pixelateEffect -delayTime=1500 -hold;
-changeBg:ba/1-2.jpg -next -transform={"position":{"y":250},"scale":{"y":0.9}};
-問題二:船隻抵達港口，妳忐忑不安的下船，看著與故鄉截然不同的街景，耳邊響起陌生的語言，面對人販子語帶威脅地，催促妳別再東張西望，此時妳選擇： -fontSize=default;
-choose:決心逃離:選擇3.txt|忍氣吞聲:選擇4.txt;

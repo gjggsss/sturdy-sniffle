@@ -1,5 +1,5 @@
-intro:教會人員尊重了妳的選擇，並沒有逼迫妳出示任何證明或做出決定。在被教會救助和住在教會的日子裡，妳逐漸受到宗教氛圍的薰陶，心靈也得到了慰藉和重生。教會的教義和信仰觸動了妳內心深處的傷痕，讓妳看到了新的生活方向。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
-intro:最終，妳決定受洗，成為一名虔誠的新教徒，妳將一生奉獻給上帝，致力於華人宗教社群的發展與傳教工作。無論走到哪裡，妳都以虔誠的心靈服務他人，將信仰的力量帶給更多有需要的人。在宗教的影響下，妳找到了一條充滿了意義與使命感並且屬於自己的道路。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
-intro:結局：|陳丁香(Lilac Chen) -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 191, 0, 1) -animation=fadeIn -delayTime=1500 -hold;
-intro:陳丁香(Lilac Chen)，6歲被賣至美國成為奴隸，而後在舊金山華埠最大的低級酒吧當妓女並被一名狠毒的華人婦女買走虐待，像是用燒紅的烙鐵猛燙她的胳膊等。一位白人婦女將此事告知長老會館，在某個下著滂沱大雨的夜晚，會館聯合警察，將她安置到卡麥隆女士所在的長老會館。成功被反娼妓組織救出後，陳丁香成為一名虔誠新教徒，終生致力於華人基督教界。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 191, 0, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:教會人員尊重了妳的選擇，並沒有逼迫妳出示任何證明或做出決定。在被教會救助和住在教會的日子裡，妳逐漸受到宗教氛圍的薰陶，心靈也得到了慰藉和重生。教會的教義和信仰觸動了妳內心深處的傷痕，讓妳看到了新的生活方向。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=pixelateEffect -delayTime=1500 -hold;
+intro:最終，妳決定受洗，成為一名虔誠的新教徒，妳將一生奉獻給上帝，致力於華人宗教社群的發展與傳教工作。無論走到哪裡，妳都以虔誠的心靈服務他人，將信仰的力量帶給更多有需要的人。在宗教的影響下，妳找到了一條充滿了意義與使命感並且屬於自己的道路。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=pixelateEffect -delayTime=1500 -hold;
+intro:結局|代表人物：陳丁香(Lilac Chen) -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 245, 201, 1) -animation=pixelateEffect -delayTime=1500 -hold;
+intro:陳丁香(Lilac Chen)，6歲被賣至美國成為奴隸，而後在舊金山華埠最大的低級酒吧當妓女並被一名狠毒的華人婦女買走虐待，像是用燒紅的烙鐵猛燙她的胳膊等。一位白人婦女將此事告知長老會館，在某個下著滂沱大雨的夜晚，會館聯合警察，將她安置到卡麥隆女士所在的長老會館。成功被反娼妓組織救出後，陳丁香成為一名虔誠新教徒，終生致力於華人基督教界。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 245, 201, 1) -animation=pixelateEffect -delayTime=1500 -hold;
 end;

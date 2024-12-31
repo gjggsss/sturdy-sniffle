@@ -1,6 +1,0 @@
-intro:追求奢華生活的妳當然不願意放棄這個機會，妳與老大就像是陷入熱戀情的情侶一樣形影不離。某次妳與老大參與政治人物舉辦的宴會，路上遇到了敵對的堂口勢力，雙方產生口角爭執，突然有人先開一槍，雙方開始展開混戰。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=pixelateEffect -delayTime=1500 -hold;
-intro:老大奮不顧身地保護妳，但他最終為此身負重傷，儘管他拼盡全力想要護住妳，卻無法阻止妳被流彈擊中，隨著時間流逝，妳的生命在失血中逐漸消逝。最終，在這混亂的槍林彈雨中，妳與他緊緊相擁，共赴死亡，留下無盡的遺憾與愛情的餘燼。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=pixelateEffect -delayTime=1500 -hold;
-intro:結局|情深緣淺共黃泉。|代表人物：kum ho -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 245, 201, 1) -animation=pixelateEffect -delayTime=1500 -hold;
-intro:被招募為上等妓女的待遇極好。除了能夠穿戴華麗並且被安置在華埠的樓上公寓，以及可以接待固定的客人；更幸運的娼妓甚至能在堂口與商業權貴舉辦的舞會上表演，並且被允許自己保存顧客給予之珠寶、絲綢、小費等賞禮。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 245, 201, 1) -animation=pixelateEffect -delayTime=1500 -hold;
-intro:Kum ho作為佐證出現在學者研究堂口老大為爭奪女子而彼此爭鬥的論文之中，因此並未有更多關於其生平背景的介紹。再者，由於妓女屬於社會地位較低的社會邊緣群體，所以除了少部分知名的妓女之外，其餘多數從事性工作的女性之姓名與相關紀錄皆不會被書寫下來，最終導致後代研究者亦無法對此進行更深入的探究。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 245, 201, 1) -animation=pixelateEffect -delayTime=1500;
-end;

@@ -1,4 +1,0 @@
-intro:古人言十賭九輸，如果在賭場輸錢，又得多接幾名客人來補這些支出，原本就很艱難的生活會更加艱苦，還是老實的工作等待自由才是正途。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=pixelateEffect -delayTime=1500 -hold;
-changeBg:ba/15.jpg -transform={"position":{"y":300}};
-問題十五:在日復一日的妓女生涯中，年輕時曾讓妳動心的男人又來找妳，這次他慎重地問道「我終於湊齊了妳的贖金，妳是否願意跟我走？」，妳決定？ -fontSize=default;
-choose:答應:31.txt|拒絕:32.txt;

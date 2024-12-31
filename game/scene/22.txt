@@ -1,4 +1,4 @@
-intro:長老教會為妳的遭遇感到遺憾，並告知妳可以先暫時被安置在教會內，他們會保護妳並拯救其他同妳一樣正在受苦，急切想逃離的華人女性。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
-changeBg:175458.jpg;
+intro:長老教會為妳的遭遇感到遺憾，並告知妳可以先暫時被安置在教會內，他們會保護妳並拯救其他同妳一樣正在受苦，急切想逃離的華人女性。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=pixelateEffect -delayTime=1500 -hold;
+changeBg:ba/11.jpeg -transform={};
 問題十一:這天，教會人士詢問妳願不願意出庭作證，揭露奴隸交易的黑暗面，救出與妳一樣受害的女性，妳決定： -fontSize=default;
 choose:勇敢出面:23.txt|拒絕出庭:24.txt;

@@ -1,7 +1,0 @@
-intro:滿懷不安的心情，在人販子催促下跟上他的腳步，前往未知的地方，妳會先被安置在人質倉房(barracoon)，這裡容納了近百名的年輕女性，但妳們不能隨意移動，時時被人監視著。這裡人流進出複雜，監管者偶爾會點幾個女性離開，有時又會帶新面孔進來。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=pixelateEffect -delayTime=1500 -hold;
-changeBg:ba/3-1.jpg;
-問題三:這天，監管者點了十位女性離開，妳成為了其中一位。 -fontSize=default;
-問題三:接著來到了一間富麗堂皇的宴會廳，途中妳看到幾位華裔女子站在臺上，臺下觀眾目光灼熱的看向她們，舉起手中牌子出價。 -fontSize=default;
-changeBg:ba/3-2.jpg -next;
-問題三:此時妳心底突然湧生出一股不安情緒，走進房間後，映入眼簾的是一張桌子，上方分別放著鑲著假鑽的髮簪、樸素的玉質髮簪、牡丹花樣式的金髮簪，妳選擇： -fontSize=default;
-choose:鑲假鑽的髮簪:選擇5.txt|樸素的玉質髮簪:選擇6.txt|牡丹花樣式的金髮簪:選擇7.txt;

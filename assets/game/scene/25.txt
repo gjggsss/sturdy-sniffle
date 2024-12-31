@@ -1,4 +1,0 @@
-intro:根據契約，如果妳逃跑，不僅會被追捕，被抓後還要支付高額的搜尋費給妓院。而且，妓院背後由堂口組織掌控，四處都有他們的眼線和監控，逃跑的風險極大，成功的機率微乎其微。妳明白，一旦被抓回，處境會變得更加糟糕，甚至會受到更嚴厲的懲罰。因此，妳拒絕了那個男人。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=pixelateEffect -delayTime=1500 -hold;
-changeBg:ba/13.jpg;
-問題十三:這天老鴇要參加政商名流舉辦的宴會，她要選出最有手段與魅力的妓女隨她出席，妳深知這是個增廣見聞，增加人脈的好機會，妳決定： -fontSize=default;
-choose:努力展現自己的魅力與手段:27.txt|安靜地待著:28.txt;

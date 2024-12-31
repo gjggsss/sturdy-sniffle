@@ -1,7 +1,6 @@
-unlockBgm:Gnossienne No.1.mp3;
 bgm:Gnossienne No.1.mp3;
-intro:此遊戲故事線皆改編自史實。|獻給過去經歷不幸的有名或無名的在美華人女性 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=pixelateEffect -delayTime=2500 -hold;
-intro:玩家您好，現在的您已穿越回19世紀的中國，|接下來的所有經歷，|請遵從您自己的內心，|做出您認為最正確選擇吧！ -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
-changeBg:5.png;
+intro:此遊戲故事線皆改編自史實|獻給過去經歷不幸的有名或無名的在美華人女性 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=pixelateEffect -delayTime=2500 -hold;
+intro:玩家您好，現在的您已穿越回19世紀的中國，|接下來的所有經歷，|請遵從您自己的內心，|做出您認為最正確選擇吧！ -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=pixelateEffect -delayTime=1500 -hold;
+changeBg:ba/1.png -next -transform={};
 初始問題:  有人將妳帶到港口，準備搭乘去往美國的船隻，請問妳選擇： -fontSize=default;
 choose:上船:選擇1.txt|逃跑:選擇2.txt;
