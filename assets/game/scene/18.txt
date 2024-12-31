@@ -1,0 +1,5 @@
+intro:妳看著這裡其他被虐待不成人樣的奴隸，妳對即將成為妳新主人的商店老闆感到恐懼。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=pixelateEffect -delayTime=1500 -hold;
+changeBg:ba/10-2.jpg -transform={"position":{"y":430},"scale":{"y":0.9}};
+問題十:某天，主人派妳外出辦事，途中妳遇到了一位長老教會的成員。他注意到妳臉上的傷口和手臂上的瘀青，於心不忍的他便將妳帶回教會。 -fontSize=default;
+問題十:他們關心地詢問妳發生了什麼事，是否需要幫助，妳決定： -fontSize=default;
+choose:選擇隱匿:21.txt|如實相告:22.txt;
