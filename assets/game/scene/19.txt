@@ -1,0 +1,4 @@
+intro:查理的病情因為感染而迅速惡化，妳只能默默陪在他身邊，看著他日漸虛弱，直至他死亡。那一刻，妳的心彷彿被抽空，做為查理好友的妳參加他的葬禮，聽著周圍的哭泣聲，妳默默地悼念他。隨著時間的推移，妳逐漸明白查理在妳的生命中不僅僅是個朋友，他對妳的關懷與溫暖早已滲透進妳的心。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=pixelateEffect -delayTime=1500 -hold;
+intro:查理去世後的每個忌日，妳都會回到他曾經常去的地方，默默思念他。歲月流逝，妳的人生裡再也沒有像查理這樣的人，每當想起他，妳心中總是充滿無盡的後悔和悲傷，直至臨終時，妳的內心仍被這份遺憾纏繞著，這份遺憾成了妳一生無法釋懷的傷口。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=pixelateEffect -delayTime=1500 -hold;
+intro:結局|若較眼底無離恨，不信人間有白頭。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 245, 201, 1) -animation=pixelateEffect -delayTime=1500 -hold;
+end;

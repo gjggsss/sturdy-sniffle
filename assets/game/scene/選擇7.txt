@@ -1,0 +1,5 @@
+intro:最終沒有買主出價買下妳，妳被賣至當地妓院從事妓女行業。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=pixelateEffect -delayTime=1500 -hold;
+changeBg:5857_0.jpg;
+問題十二:妳被賣到當地妓院，開始了日復一日的接客生活。妳遇見了形形色色的男人，但其中有一位讓妳印象深刻，他總是溫柔且誠懇的對待妳。 -fontSize=default;
+問題十二:某天，他問妳是否願意跟他私奔。妳心知他並沒有足夠的錢贖出你，但這是一次能逃離如地獄般生活的機會。經過一番掙扎與思索，妳決定： -fontSize=default;
+choose:私奔:26.txt|留下:25.txt;
