@@ -1,5 +1,0 @@
-intro:妳最後選擇回去商店，滿身酒氣的主人看見妳終於回來了，隨手拿起身旁的棍子朝妳揮舞，妳被擊中頭部，鮮血頓時噴湧而出，妳徹底失去了反抗能力，倒在地上，血流如注。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=pixelateEffect -delayTime=1500 -hold;
-intro:臨死前妳回憶了這一生，受盡屈辱，而眼前這個傷害妳的人仍不停對妳進行辱罵，一股怒火席捲妳的內心，突然妳的身體湧出一股力量，妳隨手拿起一個瓷器朝商店主人頭部砸去，他頭破血流，命喪當場，妳也隨之因失血過多離開了這煉獄般的人間。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=pixelateEffect -delayTime=1500 -hold;
-intro:結局|同墮深淵。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 245, 201, 1) -animation=pixelateEffect -delayTime=1500 -hold;
-intro:當時妓女與女性奴隸經常被她們的主人或客人虐待，例如被主人毆打死或是被客人強迫進行變態性行為等。馬格利特．卡奧伯特森(Margaret Culbertson)在其日記中紀錄陳羅(Chun Loie)的故事，一位9歲的女孩被殘酷虐待，進行救援行動時發現她的頭上有被斧頭砍過的兩個傷口，臉、口、手都有受到虐待後的腫脹。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 245, 201, 1) -animation=pixelateEffect -delayTime=1500 -hold;
-end;

@@ -1,8 +1,8 @@
 intro:妳的主人洪金(Hong King)是鎮上最熱門酒吧的華人小業主。妳在酒吧負責煮飯、打掃，有時也會陪客人跳舞。然而，洪金時常強迫妳發生關係，讓妳心生厭惡與無奈。每當如此，妳總會找另一家酒吧的業主查理·貝米斯傾訴，他總是給予妳溫暖和鼓勵，漸漸成為妳心中的依靠。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=pixelateEffect -delayTime=1500 -hold;
 intro:這天，查理來到洪金的酒吧，向他發起了撲克遊戲挑戰，查理要求把妳的自由作為賭注，洪金同意了，如果查理贏了這場賭局，妳便能擺脫洪金的控制，徹底逃離這個困境，迎來新的生活。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=pixelateEffect -delayTime=1500 -hold;
-changeBg:2.jpg -transform={"scale":{"y":0.7}};
+changeBg:2.jpg -next -transform={"scale":{"y":0.9}};
 問題九:最終，查理贏了這場遊戲，妳恍惚的跟著查理離開，仍然不敢置信自己就這樣獲得了自由。恢復自由身的妳在查理的酒吧旁開了一家寄宿公寓，為礦工洗衣。 -fontSize=default;
-changeBg:ba/9-2.png -next -transform={"scale":{"y":0.7}};
 問題九:並用自己在家鄉學習的中醫知識為當地的孩子治病，成為社區受人尊敬和愛戴的女性。 -fontSize=default;
+changeBg:ba/9-2.png -next -transform={"scale":{"y":0.7}};
 問題九:多年後，查理因為一次意外被槍擊，生命垂危，妳得知查理中槍危及性命，妳放下手邊工作連忙去探望他，發現查理的狀況並不樂觀，決定： -fontSize=default;
 choose:在他人生最後一段時日裡陪陪他:19.txt|透過自己的醫藥知識醫治他:20.txt;

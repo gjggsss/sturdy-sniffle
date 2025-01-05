@@ -1,4 +1,0 @@
-intro:妳與其它妓女們一同逃跑，路上被堂口組織成員拯救，經過此次事件，妳開始冷漠的對待這個世間，發誓要透過周旋於男人之間，追求上流般的生活。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=pixelateEffect -delayTime=1500 -hold;
-changeBg:ba/7.jpg -transform={"position":{"x":0,"y":400}};
-問題七:這日妳又接到宴會演出的邀請，表演結束後堂口老大找到妳向你表達心意，問道「妳願意成為我的女人嗎？」，妳決定： -fontSize=default;
-choose:願意:選擇15.txt|拒絕:選擇16.txt;

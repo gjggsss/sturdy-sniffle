@@ -1,5 +1,0 @@
-intro:他趁妳不備在酒中下藥，喝下酒的妳暈了過去。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=pixelateEffect -delayTime=1500 -hold;
-intro:再次醒來，妳發現自己被綁架到鐵路附近的貨物集散區，一同被綁架的還有其他有名的妓女。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=pixelateEffect -delayTime=1500 -hold;
-changeBg:ba/6.png;
-問題六:綁匪出現後，有位妓女趁其不注意時偷襲他，其他妓女們各自逃散，你選擇： -fontSize=default;
-choose:躲藏:選擇13.txt|逃跑:選擇14.txt;

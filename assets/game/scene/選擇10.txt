@@ -1,4 +1,0 @@
-intro:妳決定無論多艱難都還是要活著，除了主動打扮自己，購買異國風情的綾羅綢緞來招攬客戶，也主動累積自己的人脈，漸漸地妳成為這一帶有名的妓女，受到許多堂口老大的邀請參與宴會，得到不少珍貴珠寶。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=pixelateEffect -delayTime=1500 -hold;
-changeBg:ba/5.jpg;
-問題五:開始聲名大噪的妳遊走於上流權貴之間，與此同時妳也被犯罪者盯上，有一天，妳遇到了奇怪的客人，他面色非常陰沉可怕，妳決定： -fontSize=default;
-choose:反抗他:選擇11.txt|開門迎接並順從他:選擇12.txt;
